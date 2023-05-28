@@ -41,7 +41,7 @@ Contributions to the MusicPlayr app are welcome! If you encounter any bugs or ha
 ```
 ## Credits
 
-The MusicPlayr app was developed by [Your Name](https://github.com/YourGitHubID).
+The MusicPlayr app was developed by [soulhacker](https://github.com/dqanahi).
 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-Credits-blue.svg)](https://github.com/dqanshi/bass-musicPlayr#credits)
 
