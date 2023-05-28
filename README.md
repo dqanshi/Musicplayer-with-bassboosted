@@ -1,8 +1,9 @@
 # Musicplayer-with-bassboosted
 This musicplayer app increes your song bass 
 
-#how to build app
+# how to build app
 
+```
 Set up the development environment:
 
 Install Android Studio: Download and install the latest version of Android Studio from the official website (https://developer.android.com/studio).
@@ -38,7 +39,7 @@ Distribute the app:
 Upload the generated APK file to the Google Play Console if you want to publish it on the Google Play Store.
 Alternatively, you can distribute the APK file directly to users through other means, such as hosting it on your website or sharing it via email.
 
-```
+
 credit
 @dqanshi
 ```
