@@ -39,3 +39,13 @@ Contributing
 Contributions to the MusicPlayr app are welcome! If you encounter any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request
 
 
+## Credits
+
+The MusicPlayr app was developed by [Your Name](https://github.com/YourGitHubID).
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-Credits-blue.svg)](https://github.com/dqanshi/bass-musicPlayr#credits)
+
+
+## License
+
+The MusicPlayr app is open-source and released under the [MIT License](LICENSE).
