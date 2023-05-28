@@ -41,5 +41,5 @@ Alternatively, you can distribute the APK file directly to users through other m
 
 
 credit
-[@dqanshi](https://github.com/dqanshi)
+[soulhacker]('https://github.com/dqanshi')
 ```
