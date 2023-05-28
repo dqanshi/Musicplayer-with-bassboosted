@@ -38,7 +38,7 @@ Target SDK Version: Android X.X (Replace with your desired target SDK version)
 Contributing
 Contributions to the MusicPlayr app are welcome! If you encounter any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request
 
-
+```
 ## Credits
 
 The MusicPlayr app was developed by [Your Name](https://github.com/YourGitHubID).
