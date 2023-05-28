@@ -22,7 +22,7 @@ To get started with the MusicPlayr app, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dqanshi/Musicplayer-with-bassboosted.git
+git clone https://github.com/dqanshi/bass-musicplayer.git
 
 Open the project in Android Studio.
 
